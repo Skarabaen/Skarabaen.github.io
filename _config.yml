@@ -15,8 +15,8 @@ theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "de-DE" #"en-US"
+title                    : "Meine Seite"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
